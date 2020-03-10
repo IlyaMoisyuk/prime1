@@ -1,0 +1,93 @@
+[
+    {
+        "Id": 1,
+        "Title": "Peugeot 306",
+        "Src": "",
+        "Gallery": [],
+        "Price": 1000,
+        "Full_text": "",
+        "status": "New"  
+    },
+    {
+        "Id": 2,
+        "Title": "Ford Mondeo I",
+        "Src": "",
+        "Gallery": [],
+        "Price": 1500,
+        "Full_text": "",
+        "status": "Sale"  
+    },
+    {
+        "Id": 3,
+        "Title": "Hyundai Equus II ROYAL",
+        "Src": "",
+        "Gallery": [],
+        "Price": 700,
+        "Full_text": "",
+        "status": "Sale"  
+    },
+    {
+        "Id": 4,
+        "Title": "",
+        "Src": "",
+        "Gallery": [],
+        "Price": 2000,
+        "Full_text": "",
+        "status": "New"  
+    },
+    {
+        "Id": 5,
+        "Title": "Audi A3 8V",
+        "Src": "",
+        "Gallery": [],
+        "Price": 9000,
+        "Full_text": "",
+        "status": "Top"  
+    },
+    {
+        "Id": 6,
+        "Title": "BMW 5 серия G30 520d M Sport",
+        "Src": "",
+        "Gallery": [],
+        "Price": 22200,
+        "Full_text": "",
+        "status": "Sale"  
+    },
+    {
+        "Id": 7,
+        "Title": "Renault Talisman",
+        "Src": "",
+        "Gallery": [],
+        "Price": 18000,
+        "Full_text": "",
+        "status": "Top"  
+    },
+    {
+        "Id": 8,
+        "Title": "Honda Accord VII",
+        "Src": "",
+        "Gallery": [],
+        "Price": 4000,
+        "Full_text": "",
+        "status": "New"  
+    },
+    {
+        "Id": 9,
+        "Title": "Hyundai Santa Fe",
+        "Src": "",
+        "Gallery": [],
+        "Price": 6000,
+        "Full_text": "",
+        "status": "Sale"  
+    },
+    {
+        "Id": 10,
+        "Title": "Suzuki Splash",
+        "Src": "",
+        "Gallery": [],
+        "Price": 5500,
+        "Full_text": "",
+        "status": "New"  
+    }
+
+]
